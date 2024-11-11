@@ -1,0 +1,7 @@
+button{
+    font-weight: 900;
+}
+button:hover{
+    background-color: aqua;
+    color: white;
+}

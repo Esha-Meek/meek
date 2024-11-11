@@ -1,0 +1,43 @@
+.text1{
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    text-shadow: 2px 2px 2px aqua;
+    margin-bottom: 0px;
+}
+h2{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 0%;
+}
+.content{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 21px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px aqua;
+    margin: 5px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    background-color: white;
+    color: black;
+    font-weight: 900;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    display: block;
+    margin:auto
+}
+button:hover{
+    background-color: aqua;
+    color: white;
+}
